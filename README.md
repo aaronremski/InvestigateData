@@ -1,8 +1,8 @@
 # Investigate Economic Data
 ## Udacity Project 1
 
-Jupyter notebook required to run/read code
-written in Python 3
+Jupyter notebook required to run/read code 
+written in Python 3 
 packages used: pandas,numpy,matplotlib,seaborn
 
 ## Project Summary:
