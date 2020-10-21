@@ -27,3 +27,5 @@ _See Society Data notebook_
   - Question 3
   - Question 4
 - Conclusions
+
+Data obtained from GapMinder.org. Data files reside in directories, data_income & data_
