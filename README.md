@@ -1,6 +1,10 @@
 # Investigate Economic Data
 ## Udacity Project 1
 
+Jupyter notebook required to run/read code
+written in Python 3
+packages used: pandas,numpy,matplotlib,seaborn
+
 ## Project Summary:
 1. GDP per capita is gross domestic product divided by midyear population. GDP is the sum of gross value added by all resident producers in the economy.
 2. Gini shows income inequality in a society. A higher number means more inequality.
@@ -14,10 +18,10 @@
 2. Which regions, as determined by the World Bank, contain the top 10 fastest growing countries?
 3. Which income groups are represented, as determined by the World Bank, by the top 10 fastest growing countries (highest CAGR values)?
 4. What did the GDP/capita trend look like for the top 10 countries?
-
-_See Society Data notebook_
 5. How did perceived corruption change, if any, during expansive growth?
 6. How did the Gini coefficient change, if any, during expansive growth?
+
+_See Society Data notebook for questions/answers to questions 5 & 6_
 
 ## Table of Contents
 - Data Wrangling
@@ -28,4 +32,6 @@ _See Society Data notebook_
   - Question 4
 - Conclusions
 
-Data obtained from GapMinder.org. Data files reside in directories, data_income & data_
+## Data Source/Location
+Source: Data obtained from GapMinder.org. 
+Location: Data files reside in directories, data_income & data_political
